@@ -1,5 +1,7 @@
 {
   "name": "invitation-card",
+"homepage": "https://oliver-ngx.github.io/invitation-card",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
