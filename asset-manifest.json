@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invitation-card/static/css/main.d579bb43.css",
+    "main.js": "/invitation-card/static/js/main.370f8efa.js",
+    "index.html": "/invitation-card/index.html",
+    "main.d579bb43.css.map": "/invitation-card/static/css/main.d579bb43.css.map",
+    "main.370f8efa.js.map": "/invitation-card/static/js/main.370f8efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d579bb43.css",
+    "static/js/main.370f8efa.js"
+  ]
+}
