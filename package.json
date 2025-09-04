@@ -1,7 +1,5 @@
 {
   "name": "invitation-card",
-"homepage": "https://oliver-ngx.github.io/invitation-card",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +15,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yourusername.github.io/invitation-card",
+  "homepage": "https://oliver-ngx.github.io/invitation-card",
   "browserslist": {
     "production": [
       ">0.2%",
